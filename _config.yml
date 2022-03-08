@@ -8,9 +8,9 @@ middle_name:
 last_name: Zhou
 email: zhouyuchen@cmu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  
 footer_text: >
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: cognitive science, machine learning, artificial intelligence  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -26,7 +26,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -36,7 +36,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 840px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -52,7 +52,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: FlamingoZh # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
@@ -70,7 +70,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -81,13 +81,13 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Yuchen Zhou  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Yuchen's Blog  # your blog must have a name for it to show up in the nav bar
+blog_description: Blog will be online soon, stay tuned!
 permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 # Comments
 disqus_shortname: al-folio # put your disqus shortname
@@ -202,8 +202,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Zhou
+  first_name: Yuchen
 
   style: apa
   locale: en
