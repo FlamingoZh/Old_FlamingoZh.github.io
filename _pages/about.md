@@ -15,6 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Yuchen is a second-year PhD student in the Department of Psychology at Carnegie Mellon University. 
+Hi, this is Yuchen, a learner, a reader, a person that takes plasure in thinking. I am currently a PhD student in Cognitive Neuroscience at Carnegie Mellon Univerisity advised by Mike Tarr and Leila Wehbe.
 
-He is primarily interested in language acquisition, communication, and multimodal learning.
+I seek to understand how humans learn and process language through interactions between speech, text, and visual inputs, from a perspective in which computation models, behavioral data, and neurological data are combined.
+
+
