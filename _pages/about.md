@@ -17,6 +17,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, this is Yuchen, a learner, a reader, a person that takes plasure in thinking. I am currently a PhD student in Cognitive Neuroscience at Carnegie Mellon Univerisity advised by Mike Tarr and Leila Wehbe.
 
-I seek to understand how humans learn and process language through interactions between speech, text, and visual inputs, from a perspective in which computation models, behavioral data, and neurological data are combined.
+I seek to understand how humans learn and process language through interactions between speech, texts, and visual inputs, from a perspective in which computational models and neurological data are combined.
 
 
